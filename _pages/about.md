@@ -62,6 +62,8 @@ redirect_from:
 
 {% include_relative includes/biography.md %} 
 
+{% include_relative includes/educations.md %}
+
 {% include_relative includes/research_interest.md %} 
 
 {% include_relative includes/working paper.md %} 

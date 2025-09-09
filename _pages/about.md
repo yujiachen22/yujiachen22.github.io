@@ -64,11 +64,13 @@ redirect_from:
 
 {% include_relative includes/research_interest.md %} 
 
-{% include_relative includes/Working paper.md %} 
+{% include_relative includes/working paper.md %} 
 
-{% include_relative includes/Teaching.md %}
+{% include_relative includes/teaching.md %}
 
 {% include_relative includes/biography.md %} 
+
+{% include_relative includes/updated.md %} 
 
 {% if site.show_sections.updated %}
   {% include_relative includes/updated.md %}

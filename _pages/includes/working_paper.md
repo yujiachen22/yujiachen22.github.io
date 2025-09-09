@@ -1,8 +1,8 @@
 # Working Papers
 ### Catalysts of Governance Convergence: The Influence of Foreign Ownership on the Change of Corporate Governance System 
 Yujia Chen, <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender">Kurt Desender</a>
-_(Last updated: June 2025)_
 
+_(Last updated: June 2025)_
 <button onclick="toggleAbstract()" style="margin-bottom: 10px;">Show Abstract</button>
 
 <div id="abstract" style="display: none; border-left: 3px solid #ccc; padding-left: 10px; margin-bottom: 20px; text-align: justify;">

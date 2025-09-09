@@ -16,10 +16,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-{% if site.show_sections.welcome %}
-  {% include_relative includes/welcome.md %}
-{% endif %}
-
 {% if site.show_sections.biography %}
   {% include_relative includes/biography.md %}
 {% endif %}
@@ -28,36 +24,16 @@ redirect_from:
   {% include_relative includes/research_interest.md %}
 {% endif %}
 
-{% if site.show_sections.news %}
-  {% include_relative includes/news.md %}
-{% endif %}
-
-{% if site.show_sections.publications %}
-  {% include_relative includes/publications.md %}
-{% endif %}
-
-{% if site.show_sections.research_experience %}
-  {% include_relative includes/research_experience.md %}
-{% endif %}
-
-{% if site.show_sections.projects %}
-  {% include_relative includes/projects.md %}
-{% endif %}
-
-{% if site.show_sections.honors_and_rewards %}
-  {% include_relative includes/honors_and_rewards.md %}
-{% endif %}
-
 {% if site.show_sections.educations %}
   {% include_relative includes/educations.md %}
 {% endif %}
 
-{% if site.show_sections.work_experience %}
-  {% include_relative includes/work_experience.md %}
+{% if site.show_sections.working paper %}
+  {% include_relative includes/working paper.md %}
 {% endif %}
 
-{% if site.show_sections.skills %}
-  {% include_relative includes/skills.md %}
+{% if site.show_sections.teaching %}
+  {% include_relative includes/teaching.md %}
 {% endif %}
 
 {% if site.show_sections.updated %}

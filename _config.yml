@@ -22,7 +22,8 @@ author:
   bio              : "PhD candidate in Universidad Carlos III de Madrid"
   location         : "Madrid, Spain"
   employer         : "Universidad Carlos III de Madrid"
-  uri              : "/Yujia_Chen_CV.pdf"
+  cv_url           : "/Yujia_Chen_CV.pdf"
+  uri              : 
   email            : "yuchen@emp.uc3m.es" 
 
   # Academic websites

@@ -7,8 +7,6 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Yujia CHEN"
 description              : "PhD candidate in Universidad Carlos III de Madrid."
 repository               : "yujiachen22/yujiachen22.github.io"

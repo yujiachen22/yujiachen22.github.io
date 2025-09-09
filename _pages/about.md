@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-{% if site.show_sections.biography %}
+{% if site.show_sections.welcome %}
   {% include_relative includes/biography.md %}
 {% endif %}
 
@@ -40,7 +40,7 @@ redirect_from:
   {% include_relative includes/updated.md %}
 {% endif %}
 
-{% include_relative includes/biography.md %} 
+{% include_relative includes/welcome.md %} 
 
 {% include_relative includes/educations.md %}
 

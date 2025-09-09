@@ -28,8 +28,8 @@ redirect_from:
   {% include_relative includes/educations.md %}
 {% endif %}
 
-{% if site.show_sections.working paper %}
-  {% include_relative includes/working paper.md %}
+{% if site.show_sections.working_paper %}
+  {% include_relative includes/working_paper.md %}
 {% endif %}
 
 {% if site.show_sections.teaching %}
@@ -46,7 +46,7 @@ redirect_from:
 
 {% include_relative includes/research_interest.md %} 
 
-{% include_relative includes/working paper.md %} 
+{% include_relative includes/working_paper.md %} 
 
 {% include_relative includes/teaching.md %}
 

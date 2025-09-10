@@ -10,7 +10,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-biography"
+    url: "/#biography"
 
   - title: "Educations"
     url: "/#-educations"

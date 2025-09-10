@@ -2,6 +2,8 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+@import "variables";
+
 #main {
   @include container;
   @include clearfix;

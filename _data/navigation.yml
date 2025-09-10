@@ -10,7 +10,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "#welcome"
+    url: "/#welcome-to-yujias-webpage"
 
   - title: "Educations"
     url: "/#educations"

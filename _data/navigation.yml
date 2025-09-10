@@ -10,19 +10,19 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-welcome"
+    url: "/#welcome-to-my-webpage"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
     
   - title: "Research Interests"
-    url: "/#-research-interests"
+    url: "/#research-interests"
     
   - title: "Working papers"
-    url: "/#-working-papers"
+    url: "/#working-papers"
 
    - title: "Teaching"
-    url: "/#-teaching"   
+    url: "/#teaching"   
     
 #  - title: "News"
 #    url: "/#-news"

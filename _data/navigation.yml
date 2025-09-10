@@ -16,10 +16,10 @@ main:
     url: "/#-educations"
     
   - title: "Research Interests"
-    url: "/#-research-interest"
+    url: "/#-research-interests"
     
   - title: "Working papers"
-    url: "/#-working-paper"
+    url: "/#-working-papers"
 
    - title: "Teaching"
     url: "/#-teaching"   

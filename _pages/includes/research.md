@@ -9,7 +9,7 @@
 
 <div style="
     display: block;
-    font-size: 0.9em;
+    font-size: 0.5em;
     text-align: justify;
     text-justify: inter-word;
     hyphens: auto;

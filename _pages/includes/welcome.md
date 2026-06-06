@@ -9,19 +9,9 @@
 
 <p>I am on the job market in 2026-2027.</p>
 
-<p>Reach me at <a href="yuchen@emp.uc3m.es" style="color: black; text-decoration: underline;">yuchen@emp.uc3m.es</a>.</p>
-</div>
+<p>You can download my CV <a href="Yujia_Chen_CV.pdf" style="color: black; text-decoration: underline;"><strong>here</strong></a>.</p>
 
-<a href="Yujia_Chen_CV.pdf" target="_blank" style="
-    display: inline-block; 
-    padding: 8px 16px; 
-    margin-top: 10px;
-    background-color: midnightblue; 
-    color: white; 
-    border-radius: 6px; 
-    text-decoration: none; 
-    font-size: 14px;">
-📄 <strong>View CV</strong>
-</a>
+<p>Contact: <a href="yuchen@emp.uc3m.es" style="color: black; text-decoration: underline;">yuchen@emp.uc3m.es</a>.</p>
+</div>
 
 

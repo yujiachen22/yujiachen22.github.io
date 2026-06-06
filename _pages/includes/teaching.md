@@ -1,3 +1,4 @@
 # Teaching
-- *2024 Fall - Present*, Management Accounting, UC3M undergraduate (Theory and Practice) 
-- *2023 Fall*, Introduction to Business Administration, UC3M undergraduate (Practice)
+**At Universidad Carlos III de Madrid:**
+- Management Accounting, Undergrad (Theory and Practice), 2024 Fall - Present
+- Introduction to Business Administration, Undergrad (Practice), 2023 Fall

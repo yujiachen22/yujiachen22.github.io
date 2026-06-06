@@ -1,6 +1,6 @@
 # Welcome to Yujia's webpage!
 
-<div id="welcome" style=" display: none; border-left: 3px solid #ccc; padding-left: 10px; margin-bottom: 20px; text-align: justify; hyphens: auto;">
+<div id="welcome" style=" display: none; border-left: 3px solid #ccc; padding-left: 15px; margin-bottom: 20px; text-align: justify; text-justify: inter-word; hyphens: auto; max-width: 800px;">
 Hi! I'm Yujia Chen, a PhD candidate in Management in the Business Department at <strong>Universidad Carlos III de Madrid (UC3M)</strong> in Spain (PhD visit at <strong>Università Bocconi</strong>).
 
 My research areas are Coporate Governance, Institutional Dynamics, Ownership, and Gender Diversity.

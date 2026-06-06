@@ -16,7 +16,7 @@ main:
     url: "/#educations"
     
   - title: "Research"
-    url: "/#Research"
+    url: "/#research"
 
   - title: "Teaching"
     url: "/#teaching"   

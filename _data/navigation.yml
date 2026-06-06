@@ -15,9 +15,6 @@ main:
   - title: "Educations"
     url: "/#educations"
     
-  - title: "Research Interests"
-    url: "/#research-interests"
-    
   - title: "Working Papers"
     url: "/#working-papers"
 

@@ -29,3 +29,7 @@ How do reputational signals experienced by one firm influence the behavior of ot
 </div>
 
 <h2 style="color: #075785;">Working in Progress</h2>
+<strong>Title of the paper</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: #494e52; text-decoration: underline;"> Kurt Desender </a>)
+<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 2em;">
+Status: Data collection and preliminary analysis
+</div>

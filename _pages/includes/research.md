@@ -3,10 +3,10 @@
 
 <strong>Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: black; text-decoration: underline;"> Kurt Desender </a>)
 
-<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 1em;">
+<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">
 <p style="margin: 0;"><em>Job Market Paper.</em></p>
 
-<p style="margin: 0;"><strong>Best Paper Award (Paper Development Workshop)</strong>, 11th Annual Conference of the International Corporate Governance Society (ICGS)(2025)</p>
+<p style="margin: 0;"><strong>Best Paper Award (Paper Development Workshop)</strong>, 11th Annual Conference of the International Corporate Governance Society (ICGS) (2025)</p>
 </div>
 
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 2em;">
@@ -14,8 +14,8 @@ We examine how global institutional investors interact with domestic norms in sh
 </div>
 
 <strong>Catalysts of Governance Convergence: The Influence of Foreign Ownership on the Change of Corporate Governance System</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: black; text-decoration: underline;"> Kurt Desender </a>)
-<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 1em;">
-<p style="margin: 0;"><strong>Nominated for Best Paper Award</strong>, 11th annual conference of International Corporate Governance Society (ICGS)(2025)</p>
+<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">
+<p style="margin: 0;"><strong>Nominated for Best Paper Award</strong>, 11th annual conference of International Corporate Governance Society (ICGS) (2025)</p>
 </div>
 
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 2em;">

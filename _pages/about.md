@@ -29,7 +29,7 @@ redirect_from:
 {% endif %}
 
 {% if site.show_sections.working_paper %}
-  {% include_relative includes/working_paper.md %}
+  {% include_relative includes/research.md %}
 {% endif %}
 
 {% if site.show_sections.teaching %}
@@ -46,7 +46,7 @@ redirect_from:
 
 {% include_relative includes/research_interest.md %} 
 
-{% include_relative includes/working_paper.md %} 
+{% include_relative includes/research.md %} 
 
 {% include_relative includes/teaching.md %}
 

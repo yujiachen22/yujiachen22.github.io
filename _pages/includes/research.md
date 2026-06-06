@@ -1,5 +1,5 @@
 # Research
-<h2 style="color: steelblue;">Working Papers</h2>
+<h2 style="color: #075785;">Working Papers</h2>
 
 <strong>Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: #494e52; text-decoration: underline;"> Kurt Desender </a>)
 

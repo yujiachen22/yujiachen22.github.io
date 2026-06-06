@@ -5,9 +5,9 @@
 **Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny** (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: black; text-decoration: underline;"> Kurt Desender </a>)
 
 <div style=" display: block; font-size: 0.9em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 1em;">
-*Job Market Paper.* 
+<p><em>Job Market Paper.</em></p>
 
-**Best Paper Award (Paper Development Workshop)**, 11th annual conference of International Corporate Governance Society (ICGS)(2025)
+<p><strong>Best Paper Award (Paper Development Workshop)</strong>, 11th Annual Conference of the International Corporate Governance Society (ICGS)(2025)</p>
 </div>
 
 <div style=" display: block; font-size: 0.9em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 1em;">
@@ -16,7 +16,7 @@ We examine how global institutional investors interact with domestic norms in sh
 
 **Catalysts of Governance Convergence: The Influence of Foreign Ownership on the Change of Corporate Governance System** (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: black; text-decoration: underline;"> Kurt Desender </a>)
 <div style=" display: block; font-size: 0.9em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 1em;">
-**Nominated for Best Paper Award**, 11th annual conference of International Corporate Governance Society (ICGS)(2025)
+<p><strong>Nominated for Best Paper Award</strong>, 11th annual conference of International Corporate Governance Society (ICGS)(2025)</p>
 </div>
 
 <div style=" display: block; font-size: 0.9em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 1em;">

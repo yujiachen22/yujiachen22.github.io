@@ -4,9 +4,8 @@
 **Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny**
 
 *Job Market Paper. Yujia Chen, <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender">Kurt Desender</a>*
-<div id="abstract" style="display: block; border-left: 3px; padding-left: 10px; margin-bottom: 20px; text-align: justify;">
+
 Abstract: We examine how global institutional investors interact with domestic norms in shaping the consequences of governance reform. Using Japan’s “Womenomics” reforms as a policy change that increases the visibility of gender diversity, we show that firms with higher Big Three institutional ownership experience larger increases in board gender diversity following the reform, primarily through director replacement rather than board expansion. We further find that firms more exposed to increases in board gender diversity experience higher levels of externally reported governance-related incidents, especially in male-dominated industries and among more visible firms. These increases are not accompanied by systematic declines in firm performance or governance quality indicators. Convergence in governance practices therefore does not necessarily imply convergence in how such changes are interpreted across institutional environments. 
-</div>
 
 **Catalysts of Governance Convergence: The Influence of Foreign Ownership on the Change of Corporate Governance System**
 

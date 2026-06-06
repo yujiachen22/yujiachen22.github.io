@@ -23,7 +23,7 @@ author:
   location         : "Madrid, Spain"
   employer         : "UC3M"
   uri              : 
-  email            : "yuchen@emp.uc3m.es" 
+  email            :
 
   # Academic websites
   academia         : # URL
@@ -31,7 +31,7 @@ author:
   googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0008-6657-3457"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/yujia-chen-591564297/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

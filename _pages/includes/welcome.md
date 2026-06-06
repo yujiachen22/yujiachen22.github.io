@@ -9,14 +9,14 @@
 
 <p>I am on the job market in 2026-2027.</p>
 
-<p>Reach me at <a href="yuchen@emp.uc3m.es">yuchen@emp.uc3m.es</a>.</p>
+<p>Reach me at <a href="yuchen@emp.uc3m.es" style="color: black; text-decoration: underline;">yuchen@emp.uc3m.es</a>.</p>
 </div>
 
 <a href="Yujia_Chen_CV.pdf" target="_blank" style="
     display: inline-block; 
     padding: 8px 16px; 
     margin-top: 10px;
-    background-color: #007acc; 
+    background-color: midnightblue; 
     color: white; 
     border-radius: 6px; 
     text-decoration: none; 

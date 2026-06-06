@@ -7,7 +7,16 @@
 
 **Best Paper Award (Paper Development Workshop)**, 11th annual conference of International Corporate Governance Society (ICGS)(2025)  
 
+<div style="
+    display: block;
+    font-size: 0.9em;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+    line-height: 1.5;
+">
 We examine how global institutional investors interact with domestic norms in shaping the consequences of governance reform. Using Japan’s “Womenomics” reforms as a policy change that increases the visibility of gender diversity, we show that firms with higher Big Three institutional ownership experience larger increases in board gender diversity following the reform, primarily through director replacement rather than board expansion. We further find that firms more exposed to increases in board gender diversity experience higher levels of externally reported governance-related incidents, especially in male-dominated industries and among more visible firms. These increases are not accompanied by systematic declines in firm performance or governance quality indicators. Convergence in governance practices therefore does not necessarily imply convergence in how such changes are interpreted across institutional environments. 
+</div>
 
 **Catalysts of Governance Convergence: The Influence of Foreign Ownership on the Change of Corporate Governance System** (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: black; text-decoration: underline;"> Kurt Desender </a>)
 

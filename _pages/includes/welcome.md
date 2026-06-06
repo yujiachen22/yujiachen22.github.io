@@ -11,7 +11,7 @@
 
 <p>You can download my CV <a href="Yujia_Chen_CV.pdf" style="color: #494e52; text-decoration: underline;"><strong>here</strong></a>.</p>
 
-<p>Contact: <a href="yuchen@emp.uc3m.es" style="color: #494e52; text-decoration: underline;">yuchen@emp.uc3m.es</a>.</p>
+<p><strong>Contact: </strong><a href="yuchen@emp.uc3m.es" style="color: #494e52; text-decoration: underline;">yuchen@emp.uc3m.es</a></p>
 </div>
 
 

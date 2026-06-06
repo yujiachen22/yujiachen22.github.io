@@ -1,13 +1,12 @@
 # Research
 <h2 style="color: steelblue;">Working Papers</h2>
 
-<div style="line-height: 1.5;">
+
 **Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny** (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: black; text-decoration: underline;"> Kurt Desender </a>)
 
 *Job Market Paper.* 
 
 **Best Paper Award (Paper Development Workshop)**, 11th annual conference of International Corporate Governance Society (ICGS)(2025)
-</div>
 
 <div style="
     display: block;

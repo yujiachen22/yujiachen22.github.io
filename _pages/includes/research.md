@@ -1,5 +1,5 @@
 # Research
-## Working Papers
+### Working Papers
 
 **Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny**
 

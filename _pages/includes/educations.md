@@ -1,5 +1,5 @@
 # Educations
-<strong>Ph.D. in Management</strong>, Universidad Carlos III de Madrid (Advisor: <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender">Kurt Desender</a>), Spain, 2023.09 - 2027.06 (expected).
+<strong>Ph.D. in Management</strong>, Universidad Carlos III de Madrid (Advisor: (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: black; text-decoration: underline;"> Kurt Desender </a>)), Spain, 2023.09 - 2027.06 (expected).
 
 <strong>Research Visit</strong>, Università Bocconi, Italy, 2026.01 - 2026.05.  
 

@@ -1,4 +1,4 @@
 # Teaching
 **At Universidad Carlos III de Madrid:**
-- Management Accounting, Undergrad (Theory and Practice), 2024 Fall - Present
-- Introduction to Business Administration, Undergrad (Practice), 2023 Fall
+- 13162 Management Accounting (Undergrad, Theory and Practice Sessions), Fall 2024 - Present
+- 13634 Introduction to Business Administration (Undergrad, Practice Session), Fall 2023

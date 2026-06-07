@@ -5,7 +5,7 @@
 
 <p>My research areas are Corporate Governance, Institutional Dynamics, Ownership, and Gender Diversity.</p>
 
-<p>My specific interest lies in cross-border influence of owners on firm decision-making. My current projects analyze how (foreign) investors act as catalysts for change in areas like gender diversity and governance structures, particularly when they operate in settings with divergent social or governance norms.</p> 
+<p>My specific interest lies in the cross-border influence of owners on firm decision-making. My current projects analyze how (foreign) investors act as catalysts for change in areas like gender diversity and governance structures, particularly when they operate in settings with divergent social or governance norms.</p> 
 
 <p>I am on the job market in 2026-2027.</p>
 

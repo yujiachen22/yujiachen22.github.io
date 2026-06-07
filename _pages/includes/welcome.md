@@ -3,7 +3,7 @@
 <div style=" display: block; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5;">
 <p>Hi! I'm Yujia Chen, a PhD candidate in Management in the Business Department at <strong>Universidad Carlos III de Madrid (UC3M)</strong> in Spain (PhD visit at <strong>Università Bocconi</strong>).</p>
 
-<p>My research areas are Coporate Governance, Institutional Dynamics, Ownership, and Gender Diversity.</p>
+<p>My research areas are Corporate Governance, Institutional Dynamics, Ownership, and Gender Diversity.</p>
 
 <p>My specific interest lies in cross-border influence of owners on firm decision-making. My current projects analyze how (foreign) investors act as catalysts for change in areas like gender diversity and governance structures, particularly when they operate in settings with divergent social or governance norms.</p> 
 

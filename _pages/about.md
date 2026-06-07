@@ -24,7 +24,7 @@ redirect_from:
   {% include_relative includes/research_interest.md %}
 {% endif %}
 
-{% if site.show_sections.educations %}
+{% if site.show_sections.education %}
   {% include_relative includes/educations.md %}
 {% endif %}
 
@@ -42,7 +42,7 @@ redirect_from:
 
 {% include_relative includes/welcome.md %} 
 
-{% include_relative includes/educations.md %} 
+{% include_relative includes/education.md %} 
 
 {% include_relative includes/research.md %} 
 

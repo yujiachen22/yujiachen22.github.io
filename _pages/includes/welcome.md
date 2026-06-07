@@ -1,4 +1,4 @@
-# Welcome to Yujia's webpage!
+# Welcome to Yujia's Webpage!
 
 <div style=" display: block; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5;">
 <p>Hi! I'm Yujia Chen, a PhD candidate in Management in the Business Department at <strong>Universidad Carlos III de Madrid (UC3M)</strong> in Spain (PhD visit at <strong>Università Bocconi</strong>).</p>

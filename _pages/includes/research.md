@@ -32,7 +32,7 @@ How do reputational signals experienced by one firm influence the behavior of ot
 </div>
 
 <h3 style="color: #075785; font-size: 1.2em;">Work in Progress</h3>
-<strong>Sailing Ship Effects in Corporate Governance: Spillovers from New Systems.</strong>
+<strong>Sailing Ship Effects in Corporate Governance: Spillovers from New Governance Systems.</strong>
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 4em;">
 Status: Data collection and preliminary analysis
 </div>

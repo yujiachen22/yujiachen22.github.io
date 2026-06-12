@@ -2,7 +2,7 @@
 <h2 style="color: #494e52;">Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
 <h3 style="color: #075785;">Working Papers</h3>
 
-<p style="margin: 0;"><em>Job Market Paper.</em></p>
+Job Market Paper.
 <strong>Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: #494e52; text-decoration: underline;"> Kurt Desender</a>)
 
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">

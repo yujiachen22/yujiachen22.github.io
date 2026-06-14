@@ -23,16 +23,16 @@ We examine how global institutional investors interact with domestic norms in sh
 How firms undertake system-level corporate governance change under cross-border pressure remains poorly understood. We examine when such pressure leads to governance architecture reconfiguration, focusing on Japanese firms’ adoption of the “audit committee” system. Drawing on the willing-and-able framework, we argue that responses depend on whether decision makers perceive a governance architecture as both salient and feasible within existing stakeholder-oriented structures. Using panel data on Japanese listed firms (2015–2023), we find that Anglo-American foreign ownership, particularly by active investors, increases adoption likelihood. These effects are stronger in weaker disclosure environments and weaker where stakeholder ties are more embedded. Adoption is associated with substantive board restructuring rather than symbolic compliance. Overall, governance reform proceeds through bounded, context-dependent reconfiguration rather than convergence. The results are robust to a difference-in-differences specification and to using peer restatements as a plausibly exogenous shock to (active) foreign investors’ concerns about the effectiveness of the traditional governance system.
 </div>
 
+<h3 style="color: #075785; font-size: 1.2em;">Work in Progress</h3>
+<strong>Sailing Ship Effects in Corporate Governance: Spillovers from New Governance Systems.</strong>
+<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 4em;">
+Status: Data collection and preliminary analysis
+</div>
+
 <h2 style="color: #494e52;">Research Stream 2: Ownership Networks and Governance Spillovers</h2>
 <h3 style="color: #075785; font-size: 1.2em;">Working Papers</h3>
 <strong>Ownership-Linked Reputational Spillovers: Firm Responses to Public Recognition and Scrutiny under Common Ownership.</strong><em> Full paper available upon request.</em>
 
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0em;">
 How do reputational signals experienced by one firm influence the behavior of other firms connected through common ownership? Prior research has primarily examined how common owners shape firm behavior through direct mechanisms such as stewardship, engagement, and monitoring. We argue that common ownership also generates ownership-linked reputational spillovers, whereby reputational gains and losses experienced by one portfolio firm influence the behavior of ownership-linked peers. We examine this argument in the context of gender diversity in Japan. Using selection into the Nadeshiko Brand as a positive reputational signal and publicly reported gender-inequality incidents as a negative reputational signal, we analyze how firms respond to reputational events experienced by peer firms connected through common ownership. Using data on Japanese listed firms from 2009 to 2023 and a staggered difference-in-differences design, we find that firms become more likely to publicly apply for the Nadeshiko Brand and increase female board representation following Nadeshiko recognition among ownership-linked peers. In contrast, firms become less likely to pursue public recognition following gender-inequality incidents experienced by ownership-linked peers while simultaneously increasing female board representation. Our findings identify ownership-linked reputational spillovers as an indirect channel through which common ownership shapes firm behavior and reveal that firms distinguish between public visibility and substantive governance adaptation when responding to positive and negative reputational signals. 
-</div>
-
-<h3 style="color: #075785; font-size: 1.2em;">Work in Progress</h3>
-<strong>Sailing Ship Effects in Corporate Governance: Spillovers from New Governance Systems.</strong>
-<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 4em;">
-Status: Data collection and preliminary analysis
 </div>

@@ -1,5 +1,5 @@
 # Research
-<h2 style="color: #494e52; margin-bottom: 0.8em; ">&bull; Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
+<h2 style="color: #494e52; ">&bull; Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
 <h3 style="color: #075785; font-size: 1.2em;">Working Papers</h3>
 
 <p style="margin: 0;"><strong>Job Market Paper</strong></p>

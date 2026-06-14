@@ -1,5 +1,5 @@
 # Research
-<h2 style="color: #494e52;">- Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
+<h2 style="color: #494e52;">&bull; Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
 <h3 style="color: #075785; font-size: 1.2em;">Working Papers</h3>
 
 <p style="margin: 0;"><strong>Job Market Paper</strong></p>
@@ -29,7 +29,7 @@ How firms undertake system-level corporate governance change under cross-border 
 Status: Data collection and preliminary analysis
 </div>
 
-<h2 style="color: #494e52;">- Research Stream 2: Ownership Networks and Governance Spillovers</h2>
+<h2 style="color: #494e52;">&bull; Research Stream 2: Ownership Networks and Governance Spillovers</h2>
 <h3 style="color: #075785; font-size: 1.2em;">Working Papers</h3>
 <strong>Ownership-Linked Reputational Spillovers: Firm Responses to Public Recognition and Scrutiny under Common Ownership.</strong><em> Full paper available upon request.</em>
 

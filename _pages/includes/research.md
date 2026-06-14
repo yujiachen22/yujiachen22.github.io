@@ -25,7 +25,7 @@ How firms undertake system-level corporate governance change under cross-border 
 
 <h3 style="color: #075785; font-size: 1.2em;">Work in Progress</h3>
 <strong>Sailing Ship Effects in Corporate Governance: Spillovers from New Governance Systems.</strong>
-<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 4em;">
+<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 2em;">
 Status: Data collection and preliminary analysis
 </div>
 
@@ -33,6 +33,6 @@ Status: Data collection and preliminary analysis
 <h3 style="color: #075785; font-size: 1.2em;">Working Papers</h3>
 <strong>Ownership-Linked Reputational Spillovers: Firm Responses to Public Recognition and Scrutiny under Common Ownership.</strong><em> Full paper available upon request.</em>
 
-<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0em;">
+<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 4em;">
 How do reputational signals experienced by one firm influence the behavior of other firms connected through common ownership? Prior research has primarily examined how common owners shape firm behavior through direct mechanisms such as stewardship, engagement, and monitoring. We argue that common ownership also generates ownership-linked reputational spillovers, whereby reputational gains and losses experienced by one portfolio firm influence the behavior of ownership-linked peers. We examine this argument in the context of gender diversity in Japan. Using selection into the Nadeshiko Brand as a positive reputational signal and publicly reported gender-inequality incidents as a negative reputational signal, we analyze how firms respond to reputational events experienced by peer firms connected through common ownership. Using data on Japanese listed firms from 2009 to 2023 and a staggered difference-in-differences design, we find that firms become more likely to publicly apply for the Nadeshiko Brand and increase female board representation following Nadeshiko recognition among ownership-linked peers. In contrast, firms become less likely to pursue public recognition following gender-inequality incidents experienced by ownership-linked peers while simultaneously increasing female board representation. Our findings identify ownership-linked reputational spillovers as an indirect channel through which common ownership shapes firm behavior and reveal that firms distinguish between public visibility and substantive governance adaptation when responding to positive and negative reputational signals. 
 </div>

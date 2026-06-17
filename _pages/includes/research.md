@@ -1,5 +1,5 @@
 # Research
-<h2 style="color: #494e52; ">&bull; Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
+<h2 style="color: #494e52; font-size: 1.5em ">&bull; Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
 <p style="color: #075785; font-size: 1.2em;"><strong>Working Papers</strong></p>
 
 <p style="margin: 0;"><strong>Job Market Paper</strong></p>
@@ -33,7 +33,7 @@ Status: Data collection and preliminary analysis
 Investigates whether firms that do not adopt Japan's audit committee system nevertheless strengthen their existing governance arrangements in response to governance reforms adopted by peer firms. The project examines a 'sailing ship effect' in corporate governance, whereby the emergence of a new governance model stimulates adaptation among non-adopters rather than direct convergence through adoption. 
 </div>
 
-<h2 style="color: #494e52;">&bull; Research Stream 2: Ownership Networks and Governance Spillovers</h2>
+<h2 style="color: #494e52; font-size: 1.5em; ">&bull; Research Stream 2: Ownership Networks and Governance Spillovers</h2>
 <p style="color: #075785; font-size: 1.2em;"><strong>Working Papers</strong></p>
 <strong>Ownership-Linked Reputational Spillovers: Firm Responses to Public Recognition and Scrutiny under Common Ownership.</strong><em> Full paper available upon request.</em>
 

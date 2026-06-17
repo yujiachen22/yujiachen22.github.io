@@ -25,8 +25,12 @@ How firms undertake system-level corporate governance change under cross-border 
 
 <h3 style="color: #075785; font-size: 1.2em;">Work in Progress</h3>
 <strong>Sailing Ship Effects in Corporate Governance: Spillovers from New Governance Systems.</strong>
-<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 2em;">
+<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">
 Status: Data collection and preliminary analysis
+</div>
+
+<div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 2em;">
+Investigates whether firms that do not adopt Japan's audit committee system nevertheless strengthen their existing governance arrangements in response to governance reforms adopted by peer firms. The project examines a 'sailing ship effect' in corporate governance, whereby the emergence of a new governance model stimulates adaptation among non-adopters rather than direct convergence through adoption. 
 </div>
 
 <h2 style="color: #494e52;">&bull; Research Stream 2: Ownership Networks and Governance Spillovers</h2>

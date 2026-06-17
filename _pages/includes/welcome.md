@@ -1,7 +1,7 @@
 # Welcome to Yujia's Webpage!
 
 <div style=" display: block; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5;">
-<p>Hi! I'm Yujia Chen, a PhD Candidate in Management in the Business Department at <strong>Universidad Carlos III de Madrid (UC3M)</strong> in Spain (PhD visit at <strong>Università Bocconi</strong>).</p>
+<p>Hi! I'm Yujia Chen, a PhD Candidate in Management at <strong>Universidad Carlos III de Madrid (UC3M)</strong> in Spain. In Spring 2026, I was a visiting researcher at <strong>Università Bocconi</strong>.</p>
 
 <p>I study how corporate governance practices diffuse across institutional and organizational contexts. My core projects analyze how global investors act as catalysts for change in areas like gender diversity and governance structures, particularly when these practices stand in tension with prevailing local norms.</p>
 

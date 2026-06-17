@@ -23,7 +23,7 @@ We examine how global institutional investors interact with domestic norms in sh
 How firms undertake system-level corporate governance change under cross-border pressure remains poorly understood. We examine when such pressure leads to governance architecture reconfiguration, focusing on Japanese firms’ adoption of the “audit committee” system. Drawing on the willing-and-able framework, we argue that responses depend on whether decision makers perceive a governance architecture as both salient and feasible within existing stakeholder-oriented structures. Using panel data on Japanese listed firms (2015–2023), we find that Anglo-American foreign ownership, particularly by active investors, increases adoption likelihood. These effects are stronger in weaker disclosure environments and weaker where stakeholder ties are more embedded. Adoption is associated with substantive board restructuring rather than symbolic compliance. Overall, governance reform proceeds through bounded, context-dependent reconfiguration rather than convergence. The results are robust to a difference-in-differences specification and to using peer restatements as a plausibly exogenous shock to (active) foreign investors’ concerns about the effectiveness of the traditional governance system.
 </div>
 
-<h3 style="color: #075785; font-size: 1.2em;">Work in Progress</h3>
+<p style="color: #075785; font-size: 1.2em;"><strong>Work in Progress</strong></p>
 <strong>Sailing Ship Effects in Corporate Governance: Spillovers from New Governance Systems.</strong>
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">
 Status: Data collection and preliminary analysis
@@ -34,7 +34,7 @@ Investigates whether firms that do not adopt Japan's audit committee system neve
 </div>
 
 <h2 style="color: #494e52;">&bull; Research Stream 2: Ownership Networks and Governance Spillovers</h2>
-<h3 style="color: #075785; font-size: 1.2em;">Working Papers</h3>
+<p style="color: #075785; font-size: 1.2em;"><strong>Working Papers</strong></p>
 <strong>Ownership-Linked Reputational Spillovers: Firm Responses to Public Recognition and Scrutiny under Common Ownership.</strong><em> Full paper available upon request.</em>
 
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 4em;">

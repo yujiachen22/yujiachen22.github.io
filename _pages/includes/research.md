@@ -1,6 +1,6 @@
 # Research
 <h2 style="color: #494e52; ">&bull; Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
-<p style="color: #075785; font-size: 1.2em;">Working Papers</p>
+<p style="color: #075785; font-size: 1.2em;"><strong>Working Papers</strong></p>
 
 <p style="margin: 0;"><strong>Job Market Paper</strong></p>
 <p><strong>Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: #494e52; text-decoration: underline;"> Kurt Desender</a>).<em> Full paper available upon request.</em></p>

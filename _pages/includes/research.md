@@ -1,12 +1,13 @@
 # Research
-<h2 style="color: #494e52; font-size: 1.5em ">&bull; Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
+<h2 style="color: #494e52; font-size: 1.2em ">&bull; Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
 <p style="color: #075785; font-size: 1.2em;"><strong>Working Papers</strong></p>
 
 <p style="margin: 0;"><strong>Job Market Paper</strong></p>
 <p><strong>Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: #494e52; text-decoration: underline;"> Kurt Desender</a>).<em> Full paper available upon request.</em></p>
 
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">
-  
+
+<p style="margin: 0;">Under revision at <em>Journal of Management Studies</em></p>
 <p style="margin: 0;"><strong>Best Paper Award (Paper Development Workshop)</strong>, 11th Annual International Corporate Governance Society (ICGS) Conference (2025)</p>
 </div>
 
@@ -16,6 +17,7 @@ We examine how global institutional investors interact with domestic norms in sh
 
 <strong>Catalysts of Governance Convergence: The Influence of Foreign Ownership on the Change of Corporate Governance System</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: #494e52; text-decoration: underline;"> Kurt Desender</a>).<em> Full paper available upon request.</em>
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">
+<p style="margin: 0;">Under revision at <em>Global Strategy Journal</em></p>
 <p style="margin: 0;"><strong>Nominated for Best Paper Award</strong>, 11th Annual International Corporate Governance Society (ICGS) Conference (2025)</p>
 </div>
 
@@ -33,7 +35,7 @@ Status: Data collection and preliminary analysis
 Investigates whether firms that do not adopt Japan's audit committee system nevertheless strengthen their existing governance arrangements in response to governance reforms adopted by peer firms. The project examines a 'sailing ship effect' in corporate governance, whereby the emergence of a new governance model stimulates adaptation among non-adopters rather than direct convergence through adoption. 
 </div>
 
-<h2 style="color: #494e52; font-size: 1.5em; ">&bull; Research Stream 2: Ownership Networks and Governance Spillovers</h2>
+<h2 style="color: #494e52; font-size: 1.2em; ">&bull; Research Stream 2: Ownership Networks and Governance Spillovers</h2>
 <p style="color: #075785; font-size: 1.2em;"><strong>Working Papers</strong></p>
 <strong>Ownership-Linked Reputational Spillovers: Firm Responses to Public Recognition and Scrutiny under Common Ownership.</strong><em> Full paper available upon request.</em>
 

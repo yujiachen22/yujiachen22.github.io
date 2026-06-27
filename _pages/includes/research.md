@@ -5,7 +5,7 @@
 
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">
 
-<p style="margin: 0;">Under revision at <em>Journal of Management Studies</em></p>
+<p style="margin: 0;">Under revision at <strong>Journal of Management Studies</strong></p>
 <p style="margin: 0;"><strong>Best Paper Award (Paper Development Workshop)</strong>, 11th Annual International Corporate Governance Society (ICGS) Conference (2025)</p>
 </div>
 
@@ -15,7 +15,7 @@ We examine how global institutional investors interact with domestic norms in sh
 
 <strong>Catalysts of Governance Convergence: The Influence of Foreign Ownership on the Change of Corporate Governance System</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: #494e52; text-decoration: underline;"> Kurt Desender</a>).<em> Full paper available upon request.</em>
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">
-<p style="margin: 0;">Under revision at <em>Global Strategy Journal</em></p>
+<p style="margin: 0;">Revise & Resubmit, <strong>Global Strategy Journal</strong></p>
 <p style="margin: 0;"><strong>Nominated for Best Paper Award</strong>, 11th Annual International Corporate Governance Society (ICGS) Conference (2025)</p>
 </div>
 

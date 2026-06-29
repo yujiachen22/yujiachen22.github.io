@@ -1,7 +1,7 @@
 # Research
 <h2 style="color: #494e52; font-size: 1.2em; margin-bottom: 2em; "> Research Stream 1: Governance Diffusion and Institutional Adaptation</h2>
 <p style="margin: 0;"><strong>Job Market Paper</strong></p>
-<p><strong>Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: #494e52; text-decoration: underline;"> Kurt Desender</a>).<a href="" style="color: #075785; text-decoration: underline;"> Latest version</a></p>
+<p><strong>Compliance without Consensus: Global Investors, Board Gender Diversity, and External Scrutiny</strong> (with <a href="https://business.uc3m.es/en/faculty/profesor/perfil/kurt-desender" style="color: #494e52; text-decoration: underline;"> Kurt Desender</a>).<a href="https://yujiachen22.github.io/files/Job.pdf" style="color: #075785; text-decoration: underline;"> Latest version</a></p>
 
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">
 

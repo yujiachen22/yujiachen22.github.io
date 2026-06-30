@@ -5,7 +5,7 @@
 
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 0.8em;">
 
-<p style="margin: 0;">Under revision at <strong>Journal of Management Studies.</strong></p>
+<p style="margin: 0;">Under review at <strong>Journal of Management Studies.</strong></p>
 <p style="margin: 0;"><strong>Best Paper Award (Paper Development Workshop)</strong>, 11th Annual International Corporate Governance Society (ICGS) Conference (2025)</p>
 </div>
 

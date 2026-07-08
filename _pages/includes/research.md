@@ -32,7 +32,7 @@ Status: Data collection and preliminary analysis
 This project investigates whether firms that do not adopt Japan’s "audit committee system" nevertheless strengthen their existing governance arrangements in response to governance reforms adopted by peer firms. While traditional diffusion literature focuses on how new practices achieve dominance through direct adoption, we examine a corporate "sailing ship effect", whereby the threat of a novel governance model motivates defenders of traditional structures to innovate and optimize their existing frameworks to preserve legitimacy. By analyzing the competitive dynamics between legacy and emergent governance forms, the study reveals how regulatory updates can catalyze widespread institutional upgrading, even among firms that actively resist direct convergence. 
 </div>
 
-<h2 style="color: #494e52; font-size: 1.2em; margin-bottom: 2em; ">Research Stream 2: Ownership Networks and Governance Spillovers</h2>
+<h2 style="color: #494e52; font-size: 1.2em; margin-bottom: 2em; ">Research Stream 2: Common Ownership and Governance Spillovers</h2>
 <strong>Ownership-Linked Reputational Exposure Effects: Firm Responses to Peer Public Recognition and Scrutiny under Common Ownership.</strong><em> Full paper available upon request.</em>
 
 <div style=" display: block; font-size: 0.8em; text-align: justify; text-justify: inter-word; hyphens: auto; line-height: 1.5; margin-bottom: 4em;">
